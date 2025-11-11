@@ -1,0 +1,10 @@
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\bin\Debug\Form_test.exe.config
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\bin\Debug\Form_test.exe
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\bin\Debug\Form_test.pdb
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\obj\Debug\Form_test.csproj.AssemblyReference.cache
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\obj\Debug\Form_test.Properties.Resources.resources
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\obj\Debug\Form_test.csproj.GenerateResource.cache
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\obj\Debug\Form_test.csproj.CoreCompileInputs.cache
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\obj\Debug\Form_test.exe
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\obj\Debug\Form_test.pdb
+C:\Users\renya\OneDrive\Desktop\asd\Form_test\Form_test\obj\Debug\Form_test.Form1.resources
